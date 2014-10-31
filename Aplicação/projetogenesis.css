@@ -1,0 +1,54 @@
+/* 
+    Created on : 29/04/2014, 22:42:57
+    Author     : Danielson
+*/
+
+/*
+	SUM�RIO
+	
+	1 - Padroniza��o dos campos de formul�rio.
+	
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Denk+One);
+
+.NomeSistema {
+     font-family: 'Denk One', serif;
+	 font-size: 34px;
+}
+
+
+/*
+	1 - Padroniza��o dos campos de formul�rio.
+	MANTER EM ORDEM ALFAB�TICA
+*/
+.genesis-field-data{
+    width: 160px;
+}
+
+.genesis-field-ddd{
+    width: 50px;
+}
+
+.genesis-field-email{
+    width: 100%;
+    text-transform: lowercase;
+}
+
+.genesis-field-nome{
+    width: 100%;
+    text-transform:  uppercase;
+}
+
+.genesis-field-sexo{
+    width: 100%;
+}
+
+.genesis-field-texto{
+    width: 100%;
+    text-transform:  uppercase;
+}
+
+.genesis-field-telefone{
+    width: 110px;
+}
